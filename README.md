@@ -1,4 +1,4 @@
-# CustomPlayerController
+# SHBPlayer
 自定义视频播放器
 
 *本播放器功能 ：
@@ -9,4 +9,5 @@
 ![](https://github.com/jiutianhuanpei/CustomPlayerController/raw/master/AVPlayerDemo/ScreenShots/2.png)
 ![](https://github.com/jiutianhuanpei/CustomPlayerController/raw/master/AVPlayerDemo/ScreenShots/3.png)
 ![](https://github.com/jiutianhuanpei/CustomPlayerController/raw/master/AVPlayerDemo/ScreenShots/4.png)
+
 
