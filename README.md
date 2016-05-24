@@ -8,7 +8,7 @@
 ##支持cocoaPods
 pod 'SHBPlayer'
 
-![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/jiutianhuanpei/SHBPlayer)
 
 ![](https://github.com/jiutianhuanpei/CustomPlayerController/raw/master/AVPlayerDemo/ScreenShots/1.png)
 ![](https://github.com/jiutianhuanpei/CustomPlayerController/raw/master/AVPlayerDemo/ScreenShots/2.png)
